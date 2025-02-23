@@ -1,0 +1,11 @@
+.a {
+  font-size: 25px;
+  font-weight: 900;
+  color: white;
+  -webkit-text-stroke-width: 1px;
+}
+
+h1 {
+  color: white;
+  -webkit-text-stroke-width: 1px;
+}
